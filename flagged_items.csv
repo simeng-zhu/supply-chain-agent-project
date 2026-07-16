@@ -1,0 +1,12 @@
+sku,product_name,category,current_stock,reorder_threshold,lead_time_days,supplier,suggested_reorder_qty
+PKG-6003,Aluminum Cans 355ml (case),Packaging,410,800,12,MetalForm Packaging,790
+PKG-6002,Glass Bottles 750ml (case),Packaging,860,1000,15,Vitro Glassworks,640
+NA-5002,Sparkling Water Variety 12pk,Non-Alcoholic,30,150,4,Pure Source Beverages,195
+RTD-3002,Hard Lemonade 6pk,RTD,60,150,5,Summit Beverage Partners,165
+BW-1002,Craft Lager 24pk Cans,Beer,180,250,7,Northwind Brewing Co.,195
+WN-2002,Pinot Grigio 750ml,Wine,140,200,21,Valley Ridge Vineyards,160
+BW-1010,Hazy IPA 6pk Bottles,Beer,95,150,10,Coastal Hop Supply,130
+SP-4002,Aged Rum 750ml,Spirits,45,100,14,Highland Distillers,105
+WN-2015,Sparkling Rose 750ml,Wine,75,120,28,Coastal Cellars Import,105
+ING-7001,Hop Pellets - Cascade (kg),Ingredients,55,80,20,Pacific Hop Growers,65
+ING-7003,Yeast Strain - Ale (units),Ingredients,18,40,10,BioFerm Cultures,42
